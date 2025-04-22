@@ -6,7 +6,7 @@ body {
   height: 440vw;
   background-size: cover;
   /* background-image: url(/img/bg.png); */
-  background-image: url("./img/background.svg");
+  background-image: url("../img/background.svg");
   background-repeat: no-repeat;
   }
  
@@ -71,7 +71,7 @@ body {
   }
 
   .logo {
-    background-image: url("./img/logo.svg");
+    background-image: url("../img/logo.svg");
     background-repeat: no-repeat;
     background-size: contain;
     width: 56vw;
@@ -140,7 +140,7 @@ body {
   width: 40vw;
   height: 10vw;
   background-size: contain;
-  background-image: url("./img/illustration.svg");
+  background-image: url("../img/illustration.svg");
   background-repeat: no-repeat;
 }
 
@@ -247,7 +247,7 @@ body {
 }
 
 .buy_text {
-  background-image: url("./img/buy.svg");
+  background-image: url("../img/buy.svg");
   background-repeat: no-repeat;
   background-size: contain;
   width: 10vw;
