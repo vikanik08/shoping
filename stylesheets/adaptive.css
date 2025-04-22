@@ -1,0 +1,71 @@
+/* ///////////////////////// Мобильные устройства ///////////////////////// */
+@media screen and (max-width: 414px) and (orientation: portrait) {
+    /* Вертикальная ориентация для мобильных устройств иногда 430px */
+}
+
+@media screen and (max-width: 414px) and (orientation: landscape) {
+    /* Горизонтальная ориентация для мобильных устройств */
+}
+
+/* ///////////////////////// Планшеты ///////////////////////// */
+@media screen and (min-width: 415px) and (max-width: 768px) and (orientation: portrait) {
+    /* Вертикальная ориентация для планшетов */
+}
+
+@media screen and (min-width: 415px) and (max-width: 768px) and (orientation: landscape) {
+    /* Горизонтальная ориентация для планшетов */
+}
+
+/* ///////////////////////// Маленькие экраны ///////////////////////// */
+@media screen and (min-width: 769px) and (max-width: 1024px) and (orientation: portrait) {
+    /* Вертикальная ориентация для экранов от 769px до 1024px (маленькие экраны) */
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px) and (orientation: landscape) {
+    /* Горизонтальная ориентация для экранов от 769px до 1024px (маленькие экраны) */
+}
+
+/* ///////////////////////// Средние экраны ///////////////////////// */
+@media screen and (min-width: 1025px) and (max-width: 1366px) and (orientation: portrait) {
+    /* Вертикальная ориентация для экранов от 1025px до 1366px */
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1366px) and (orientation: landscape) {
+    /* Горизонтальная ориентация для экранов от 1025px до 1366px */
+}
+
+/* ///////////////////////// Большие экраны ///////////////////////// */
+@media screen and (min-width: 1367px) and (max-width: 1920px) and (orientation: portrait) {
+    /* Вертикальная ориентация для экранов от 1367px до 1920px */
+}
+
+@media screen and (min-width: 1367px) and (max-width: 1920px) and (orientation: landscape) {
+    /* Горизонтальная ориентация для экранов от 1367px до 1920px */
+}
+
+/* ///////////////////////// Очень большие экраны ///////////////////////// */
+@media screen and (min-width: 1921px) and (orientation: portrait) {
+    /* Вертикальная ориентация для экранов шире 1920px */
+}
+
+@media screen and (min-width: 1921px) and (orientation: landscape) {
+    /* Горизонтальная ориентация для экранов шире 1920px */
+}
+
+/* ///////////////////////// Ультра-HD экраны (4K и выше) ///////////////////////// */
+@media screen and (min-width: 2561px) {
+    /* Поддержка для ультра-HD экранов */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
