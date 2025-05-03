@@ -29,7 +29,7 @@ function initThree() {
   let houseModel = null
 
   loader.load(
-    './threeD/sweater.glb',
+    'https://vikanik08.github.io/sweater-model/sweaters.glb',
     (gltf) => {
       houseModel = gltf.scene
       houseModel.scale.set(1.2, 1.2, 1.2)
